@@ -21,4 +21,7 @@ Recriação responsiva da interface do YouTube utilizando:
 - **CSS Flexbox** - para layout
 - **Media Queries** - para responsividade
 
+## 🔗 https://maarivalentim.github.io/-clonando-a-pagina-do-youtube-com-css/:
+  
+
 
